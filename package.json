@@ -1,0 +1,28 @@
+{
+  "name": "abtest",
+  "version": "1.0.0",
+  "description": "AB Test Application for IS4900",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongodb": "~2.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrodrig/ab-test-app.git"
+  },
+  "keywords": [
+    "abtest"
+  ],
+  "author": "mrodrig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrodrig/ab-test-app/issues"
+  },
+  "homepage": "https://github.com/mrodrig/ab-test-app#readme"
+}
